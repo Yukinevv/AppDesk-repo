@@ -1,0 +1,12 @@
+C:\Users\developer\source\repos\Zajecia2\Biblioteka\bin\Debug\Biblioteka.dll
+C:\Users\developer\source\repos\Zajecia2\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\developer\source\repos\Zajecia2\Biblioteka\obj\Debug\Biblioteka.csproj.AssemblyReference.cache
+C:\Users\developer\source\repos\Zajecia2\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\developer\source\repos\Zajecia2\Biblioteka\obj\Debug\Biblioteka.dll
+C:\Users\developer\source\repos\Zajecia2\Biblioteka\obj\Debug\Biblioteka.pdb
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\Zajecia2\Biblioteka\bin\Debug\Biblioteka.dll
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\Zajecia2\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\Zajecia2\Biblioteka\obj\Debug\Biblioteka.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\Zajecia2\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\Zajecia2\Biblioteka\obj\Debug\Biblioteka.dll
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\Zajecia2\Biblioteka\obj\Debug\Biblioteka.pdb
