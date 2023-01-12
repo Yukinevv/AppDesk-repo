@@ -1,0 +1,10 @@
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\UslugiWindows\UslugaZeWzorca\bin\Debug\UslugaZeWzorca.exe.config
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\UslugiWindows\UslugaZeWzorca\bin\Debug\UslugaZeWzorca.exe
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\UslugiWindows\UslugaZeWzorca\bin\Debug\UslugaZeWzorca.pdb
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\UslugiWindows\UslugaZeWzorca\obj\Debug\UslugaZeWzorca.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\UslugiWindows\UslugaZeWzorca\obj\Debug\UslugaZeWzorca.csproj.SuggestedBindingRedirects.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\UslugiWindows\UslugaZeWzorca\obj\Debug\UslugaZeWzorca.ProjectInstaller.resources
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\UslugiWindows\UslugaZeWzorca\obj\Debug\UslugaZeWzorca.csproj.GenerateResource.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\UslugiWindows\UslugaZeWzorca\obj\Debug\UslugaZeWzorca.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\UslugiWindows\UslugaZeWzorca\obj\Debug\UslugaZeWzorca.exe
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\UslugiWindows\UslugaZeWzorca\obj\Debug\UslugaZeWzorca.pdb

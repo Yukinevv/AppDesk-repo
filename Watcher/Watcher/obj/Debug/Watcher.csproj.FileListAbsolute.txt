@@ -1,0 +1,16 @@
+C:\Users\developer\source\repos\Watcher\Watcher\bin\Debug\Watcher.exe.config
+C:\Users\developer\source\repos\Watcher\Watcher\bin\Debug\Watcher.exe
+C:\Users\developer\source\repos\Watcher\Watcher\bin\Debug\Watcher.pdb
+C:\Users\developer\source\repos\Watcher\Watcher\obj\Debug\Watcher.csproj.AssemblyReference.cache
+C:\Users\developer\source\repos\Watcher\Watcher\obj\Debug\Watcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\source\repos\Watcher\Watcher\obj\Debug\Watcher.csproj.CoreCompileInputs.cache
+C:\Users\developer\source\repos\Watcher\Watcher\obj\Debug\Watcher.exe
+C:\Users\developer\source\repos\Watcher\Watcher\obj\Debug\Watcher.pdb
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\Watcher\Watcher\bin\Debug\Watcher.exe.config
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\Watcher\Watcher\bin\Debug\Watcher.exe
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\Watcher\Watcher\bin\Debug\Watcher.pdb
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\Watcher\Watcher\obj\Debug\Watcher.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\Watcher\Watcher\obj\Debug\Watcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\Watcher\Watcher\obj\Debug\Watcher.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\Watcher\Watcher\obj\Debug\Watcher.exe
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\Watcher\Watcher\obj\Debug\Watcher.pdb

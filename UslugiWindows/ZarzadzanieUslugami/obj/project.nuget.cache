@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N8tQFuOPD0aLc8hzIGuNjV+yuMnrtgOxF4B6rSrpCdj9b25tIEOnvNr15gfLg7Z27RhW+BB13SP6pTC5T1fAvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adria\\OneDrive\\III_rok_SEMESTR_ZIMOWY\\AppDeskC#\\cwiczenia_zadania\\UslugiWindows\\ZarzadzanieUslugami\\ZarzadzanieUslugami.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.serviceprocess.servicecontroller\\7.0.0\\system.serviceprocess.servicecontroller.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
