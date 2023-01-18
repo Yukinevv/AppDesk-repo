@@ -1,0 +1,14 @@
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\Usluga\bin\Debug\Usluga.exe.config
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\Usluga\bin\Debug\Usluga.exe
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\Usluga\bin\Debug\Usluga.pdb
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\Usluga\obj\Debug\Usluga.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\Usluga\obj\Debug\Usluga.csproj.SuggestedBindingRedirects.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\Usluga\obj\Debug\Usluga.ProjectInstaller.resources
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\Usluga\obj\Debug\Usluga.csproj.GenerateResource.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\Usluga\obj\Debug\Usluga.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\Usluga\obj\Debug\Usluga.exe
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\Usluga\obj\Debug\Usluga.pdb
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\Usluga\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\Usluga\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\Usluga\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\Usluga\obj\Debug\Usluga.csproj.CopyComplete

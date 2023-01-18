@@ -1,0 +1,7 @@
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\WcfServiceLibrary1\bin\Release\WcfServiceLibrary1.dll.config
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\WcfServiceLibrary1\bin\Release\WcfServiceLibrary1.dll
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\WcfServiceLibrary1\bin\Release\WcfServiceLibrary1.pdb
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.dll
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.pdb

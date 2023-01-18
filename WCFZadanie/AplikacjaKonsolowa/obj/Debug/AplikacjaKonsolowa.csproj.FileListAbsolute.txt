@@ -1,0 +1,8 @@
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\AplikacjaKonsolowa\bin\Debug\AplikacjaKonsolowa.exe.config
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\AplikacjaKonsolowa\bin\Debug\AplikacjaKonsolowa.exe
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\AplikacjaKonsolowa\bin\Debug\AplikacjaKonsolowa.pdb
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\AplikacjaKonsolowa\obj\Debug\AplikacjaKonsolowa.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\AplikacjaKonsolowa\obj\Debug\AplikacjaKonsolowa.csproj.SuggestedBindingRedirects.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\AplikacjaKonsolowa\obj\Debug\AplikacjaKonsolowa.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\AplikacjaKonsolowa\obj\Debug\AplikacjaKonsolowa.exe
+C:\Users\adria\OneDrive\III_rok_SEMESTR_ZIMOWY\AppDeskC#\cwiczenia_zadania\WCFZadanie\AplikacjaKonsolowa\obj\Debug\AplikacjaKonsolowa.pdb
